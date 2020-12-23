@@ -3,7 +3,7 @@ from PyQt5 import *
 import sys
 from selenium import webdriver
 from time import sleep
-from lol import *
+from UI_Dialog import *
 from PyQt5 import QtWidgets,QtCore,QtGui
 
 
